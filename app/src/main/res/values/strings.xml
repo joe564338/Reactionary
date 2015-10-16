@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reactionary</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ending">EndingActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4431477363996488/8457362546</string>
+    <string name="banner_test_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
